@@ -1,3 +1,5 @@
+mod koans;
+
 #[cfg(not(test))]
 use std::process::Command;
 
